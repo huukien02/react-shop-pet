@@ -1,0 +1,58 @@
+.container
+{
+    /* display: flex; */
+}
+.left
+{
+    margin-left: 80px;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    width: 1500px;
+    /* margin-right: 50px; */
+}
+.left ul{
+
+    padding-left: 0;
+    display: flex;
+}
+.left ul li 
+{
+    border: 1px solid #000;
+    width: 300px;
+    height: 45px;
+    padding-top: 20px;
+    padding-left: 40px;
+    cursor: pointer;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    transition: all 0.5s;
+}
+.left ul li i 
+{
+    color: red;
+    padding-right: 20px;
+}
+.left ul li:hover 
+{
+    background-color: whitesmoke;
+    color: black;
+}
+
+
+.right_1
+{
+   
+}
+.right_2
+{
+    display: none;
+}
+.right_3
+{
+    display: none;
+}
+.right_4
+{
+    display: none;
+}

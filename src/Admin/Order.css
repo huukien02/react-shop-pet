@@ -1,0 +1,21 @@
+#listOrder img 
+{
+    width: 70px;
+    height: 70px;
+
+}
+.fa-solid.fa-square-xmark
+{
+    margin-left: 1005px;
+    color:red
+}
+.list-detail
+{
+    display: none;
+}
+.fa-solid.fa-circle-check
+{
+    cursor: pointer;
+    position: relative;
+    left: -20px;
+}

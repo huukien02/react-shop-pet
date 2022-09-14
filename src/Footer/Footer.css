@@ -1,0 +1,30 @@
+.Footer
+{
+    display: flex;
+    margin-top: 60px;
+    padding-top: 50px;
+    padding-bottom: 20px;
+    margin-bottom: 30px;
+    border-top-style: groove;
+}
+.Footer_1
+{
+    display: flex;
+    margin-left: 80px;
+}
+.Footer_1 h5
+{
+    text-align: center;
+}
+
+.Footer_1 i 
+{
+    padding-left: 5px;
+    padding-right: 15px;
+    margin-top: 85px;
+    color: rgb(32, 173, 32);
+}
+.content
+{
+    width: 200px;
+}

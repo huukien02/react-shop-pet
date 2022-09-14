@@ -1,0 +1,14 @@
+.banner
+{
+    border: 1px solid #000;
+    width: 967px;
+    margin-left: 250px;
+    box-shadow: 0px 0px 15px black;
+    border: none;
+}
+.banner img 
+{
+    width: 967px;
+    height: 400px;
+    text-align: center;
+}
